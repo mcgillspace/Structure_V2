@@ -1,0 +1,16 @@
+[StartTime]
+MSG_Controls_RWcontainer_-Static 1.MFC=1s
+[SolverState]
+MSG_Controls_RWcontainer_-Static 1.MFC=2
+[MainFrame]
+MSG_Controls_RWcontainer_-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+MSG_Controls_RWcontainer_-Static 1.MFC=No
+[SolverType]
+MSG_Controls_RWcontainer_-Static 1.MFC=Linear Analysis
+[StudyType]
+MSG_Controls_RWcontainer_-Static 1.MFC=0
+[StudyName]
+MSG_Controls_RWcontainer_-Static 1.MFC=Static 1
+[Solver]
+MSG_Controls_RWcontainer_-Static 1.MFC=Iterative

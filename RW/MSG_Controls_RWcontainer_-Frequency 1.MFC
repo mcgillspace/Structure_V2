@@ -1,0 +1,16 @@
+[StartTime]
+MSG_Controls_RWcontainer_-Frequency 1.MFC=
+[SolverState]
+MSG_Controls_RWcontainer_-Frequency 1.MFC=2
+[MainFrame]
+MSG_Controls_RWcontainer_-Frequency 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+MSG_Controls_RWcontainer_-Frequency 1.MFC=yes
+[SolverType]
+MSG_Controls_RWcontainer_-Frequency 1.MFC=Linear Analysis
+[StudyType]
+MSG_Controls_RWcontainer_-Frequency 1.MFC=-1
+[StudyName]
+[Solver]
+MSG_Controls_RWcontainer_-Frequency 1.MFC=Iterative
+[StudyName1]

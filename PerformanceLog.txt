@@ -1,2 +1,2 @@
 Number of Contacts: 56
-Number of contact data: 9282
+Number of contact data: 9530

@@ -1,0 +1,16 @@
+[StartTime]
+V2_Structure-Static 2.MFC=9s
+[SolverState]
+V2_Structure-Static 2.MFC=2
+[MainFrame]
+V2_Structure-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+V2_Structure-Static 2.MFC=No
+[SolverType]
+V2_Structure-Static 2.MFC=Linear Analysis
+[StudyType]
+V2_Structure-Static 2.MFC=0
+[StudyName]
+V2_Structure-Static 2.MFC=Static 2
+[Solver]
+V2_Structure-Static 2.MFC=Sparse
